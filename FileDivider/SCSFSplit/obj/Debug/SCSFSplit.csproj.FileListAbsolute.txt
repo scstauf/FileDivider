@@ -1,0 +1,4 @@
+C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\SCSFSplit\bin\Debug\SCSFSplit.dll
+C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\SCSFSplit\bin\Debug\SCSFSplit.pdb
+C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\SCSFSplit\obj\Debug\SCSFSplit.dll
+C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\SCSFSplit\obj\Debug\SCSFSplit.pdb

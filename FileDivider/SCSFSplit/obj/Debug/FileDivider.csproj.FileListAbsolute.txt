@@ -1,0 +1,9 @@
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\fsplit\SCSFSplit\bin\Debug\DividerLib.dll
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\fsplit\SCSFSplit\bin\Debug\DividerLib.pdb
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\fsplit\SCSFSplit\obj\Debug\FileDivider.csprojResolveAssemblyReference.cache
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\fsplit\SCSFSplit\obj\Debug\DividerLib.dll
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\fsplit\SCSFSplit\obj\Debug\DividerLib.pdb
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\FileDivider\SCSFSplit\bin\Debug\DividerLib.dll
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\FileDivider\SCSFSplit\bin\Debug\DividerLib.pdb
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\FileDivider\SCSFSplit\obj\Debug\DividerLib.dll
+C:\Users\scstauf\Documents\Visual Studio 2013\Projects\FileDivider\SCSFSplit\obj\Debug\DividerLib.pdb
