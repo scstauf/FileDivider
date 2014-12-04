@@ -186,8 +186,8 @@ namespace DividerLib {
         /// <summary>Joins segment files.</summary>
         /// <param name="input">The first segment file.</param>
         public void JoinFile(string input, string output = "") {
-            //  Only handle files that end in this format: 001
-            if (!input.EndsWith("000"))
+            //  Only handle files that end in this format: *.001
+            if (!input.EndsWith("001"))
                 throw new Exception(String.Format("{0,-25}{1}", "Invalid input file:", input));
             else {
                 //  file.ext.001, file.ext, \path\to\file.ext

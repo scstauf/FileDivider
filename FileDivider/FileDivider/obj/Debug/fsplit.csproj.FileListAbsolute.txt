@@ -1,8 +1,0 @@
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\bin\Debug\fsplit.exe.config
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\bin\Debug\fsplit.exe
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\bin\Debug\fsplit.pdb
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\bin\Debug\SCSFSplit.dll
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\bin\Debug\SCSFSplit.pdb
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\obj\Debug\fsplit.csprojResolveAssemblyReference.cache
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\obj\Debug\fsplit.exe
-C:\Users\scstauf\documents\visual studio 2013\Projects\fsplit\fsplit\obj\Debug\fsplit.pdb
